@@ -4,7 +4,7 @@ In this session, we will learn how to read data from a file and from a database 
 
 ### 1. Reading data from a local file (explore on your own)
 
-We will upload a file to the platform and read it using R. The file `phenotype_test_data_workshop.csv` is available [here](data/phenotype_test_data_workshop.csv). The notebook is available here: [demo_1_Read_File.ipynb](demo_1_Read_File.ipynb).
+We will upload a file to the platform and read it using R. The file `phenotype_test_data_workshop.csv` is available [here](data/phenotype_test_data_workshop.csv). The notebook is available here: [demo_1_read_local_data.ipynb.ipynb](demo_1_read_local_data.ipynb).
 
 ### 2. Reading data from using the BrAPI Helper (live demo)
     
